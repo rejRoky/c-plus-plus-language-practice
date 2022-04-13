@@ -41,3 +41,26 @@
 2. Linux
 3. Mac osx
 
+
+#### Program Development
+1. Programming Paradigm (Programming Style)
+2. Algorithm / Pscudo code
+3. Flowchart
+4. Step For Program Development
+* Linker
+* Loader
+
+#### Programming Paradigm
+1. Monolithic Programming (All code in single code, Every thing a single body)
+2. Modular / Procedural Programming (re-using) (c language)
+3. Object Oriented Programming (c++, Java)
+4. Aspect-Oriented / component Assembly Programming
+
+
+#### Step For Program Development
+1. Editing
+2. Compiling 
+3. Linking Library
+4. Loading
+5. Execution
+
